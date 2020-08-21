@@ -1,6 +1,6 @@
 # Draw-a-Curve
-A Neural Network Implementation with Feed Forward and Back-Propagation to be trained to draw a Curve.
-The Neural Network contains 2 hidden layer, one input(a value  along the curve from 0 to one ), and 2 outputs representing the curve coordiates
+A neural network implementation with Feed Forward and Back-Propagation to be trained to draw a curve.
+The Neural Network contains 2 hidden layer of 6 and 7 neurons respectivly, one input(a value  along the curve from 0 to one ), and 2 outputs representing the curve coordiates
 ## Feed Forward
 We will use the logistic activation function
 ## Back-Propagation
