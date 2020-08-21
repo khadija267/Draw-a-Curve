@@ -4,7 +4,7 @@ The Neural Network contains 2 hidden layer, one input(a value  along the curve f
 ## Feed Forward Equation
 We will use the logistic activation function
 ## Back-Propagation
-Calculate the jacobian of cost function c with respect to weights and biases.
+Calculate the jacobian of cost function c (average function ) with respect to weights and biases in each layer.
 
 
 
